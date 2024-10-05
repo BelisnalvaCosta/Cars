@@ -1,6 +1,7 @@
 # Cars
 
 Este mini projeto foi feito na IDE Visual Studio Code, linguagens: HTML, Javascript e CSS [^1].
+
 Objetivo: praticar Lógica de Programação em Javascript
 
 # Funcionalidades:
