@@ -2,6 +2,10 @@
 
 Este mini projeto foi feito na IDE Visual Studio Code, linguagens: HTML, Javascript e CSS [^1].
 
+![Jogo de Corrida de Carros - Google Chrome 04_10_2024 21_00_19](https://github.com/user-attachments/assets/a8c96b6e-6085-4e22-85cb-839deb30a11f)
+
+Github page: https://belisnalvacosta.github.io/Cars/
+
 Objetivo: praticar Lógica de Programação em Javascript
 
 # Funcionalidades:
